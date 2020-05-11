@@ -1,0 +1,5 @@
+Just a file I used to test out a checkout method for contributing in a collaboratorial setting.
+
+Using this method to push this branch to the remote repo. to be given a pull request.
+
+Simulating the correct way to avoid merge conflicts by pushing the master branch
